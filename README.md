@@ -60,6 +60,8 @@ This image includes additional software components:
 - LSP-related plugins (MIT/BSD Licenses)
 - Visual Python Widget (MIT/BSD License)
 
+All additional components are distributed under their
+respective open-source licenses.
 
 # Disclaimer
 
@@ -68,7 +70,3 @@ Use at your own risk.
 
 The authors assume no responsibility for any damage or data loss
 resulting from the use of this image.
-
-
-All additional components are distributed under their
-respective open-source licenses.
