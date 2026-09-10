@@ -24,6 +24,10 @@ intelligent autocompletion inline diagnostics code navigation and introspection
 
   ✅ Fully compatible with JupyterLab 4.x
 
+# Docker Image
+
+You can find the Docker image on [Docker Hub](https://hub.docker.com/r/miodragsima/jupyter-scipy-lsp-visualpython).
+
 # Benefits for JupyterHub on Kubernetes
 
 IDE-like Python development experience directly in JupyterLab
@@ -41,7 +45,6 @@ JupyterHub deployments requiring persistent UI extensions on Kubernetes
 ## Based on beclab/jupyter-scipy-notebook (BSD-3-Clause).
 Includes python-lsp-server and Visual Python Widget
 under their respective open-source licenses.
-
 
 ## Base Image
 
@@ -70,3 +73,6 @@ Use at your own risk.
 
 The authors assume no responsibility for any damage or data loss
 resulting from the use of this image.
+
+
+
